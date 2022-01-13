@@ -11,5 +11,5 @@ http://127.0.0.1:8000/api/find-users/?limit=2&offset=46					                    
 
 Must have to install .....
 
-rest-framework
+rest-framework,
 django-filter
